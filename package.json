@@ -1,0 +1,27 @@
+{
+  "name": "api_node_curso_gama",
+  "version": "1.0.0",
+  "description": "API do sistema de noticias",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abreuroberto2015/API_Node_Curso_Gama.git"
+  },
+  "keywords": [
+    "news",
+    "noticias"
+  ],
+  "author": "Roberto Abreu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abreuroberto2015/API_Node_Curso_Gama/issues"
+  },
+  "homepage": "https://github.com/abreuroberto2015/API_Node_Curso_Gama#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql2": "^2.3.0"
+  }
+}
